@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f69729c846c74fbf",
+        "id": "662a2cb5c4c7b927",
         "type": "tabs",
         "children": [
           {
-            "id": "8eec10e1d1c14e25",
+            "id": "0f222e1801d829da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d3d5172bdae54b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker生成镜像时删除dangling镜像.md",
+                "file": "Post/k3s/k3s集群搭建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker生成镜像时删除dangling镜像.md",
+                "file": "Post/k3s/k3s集群搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker生成镜像时删除dangling镜像.md",
+                "file": "Post/k3s/k3s集群搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker生成镜像时删除dangling镜像.md"
+                "file": "Post/k3s/k3s集群搭建.md"
               }
             }
           }
@@ -157,14 +144,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d3d5172bdae54b5",
+  "active": "0f222e1801d829da",
   "lastOpenFiles": [
-    "Oauth2登录流程.md",
-    "Docker生成镜像时删除dangling镜像.md",
+    "Post/k3s",
+    "Post/Docker生成镜像时删除dangling镜像.md",
+    "Post/k3s/k3s集群搭建.md",
+    "Kanban/Work.md",
+    "Post",
+    "Kanban",
     "README.md",
+    "使用kubeadm在CentOS7上部署k8s.md",
+    "Oauth2登录流程.md",
     "Obsidian/README.md",
     "Obsidian"
   ]

@@ -1,4 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-kanban",
+  "table-editor-obsidian",
+  "obsidian-image-auto-upload-plugin"
 ]
