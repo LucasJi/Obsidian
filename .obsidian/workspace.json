@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/k3s/强制删除namespace.md",
-                "mode": "source",
+                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/k3s/强制删除namespace.md",
+                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/k3s/强制删除namespace.md",
+                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/k3s/强制删除namespace.md"
+                "file": "Post/k3s/k3s跨云服务商集群搭建.md"
               }
             }
           }
@@ -148,12 +148,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3f2b4fe5b8d91f",
+  "active": "fac1c6e728b02419",
   "lastOpenFiles": [
-    "Post/k3s/使用nslookup检测域名是否生效.md",
-    "Post/k3s/强制删除namespace.md",
-    "Post/k3s/部署Redis集群.md",
     "Post/k3s/k3s集群搭建.md",
+    "Post/k3s/k3s跨云服务商集群搭建.md",
+    "Post/k3s/检测k8s service域名是否生效.md",
+    "Post/k3s/强制删除k8s namespace.md",
+    "Post/k3s/部署Redis集群.md",
     "Post/k3s",
     "Post/Docker生成镜像时删除dangling镜像.md",
     "Kanban/Work.md",
