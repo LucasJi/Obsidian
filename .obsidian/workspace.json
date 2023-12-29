@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06b851de1b57598a",
+        "id": "0773b6e728cc8120",
         "type": "tabs",
         "children": [
           {
-            "id": "3024adf2c9b97bef",
+            "id": "7555bb767e446215",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/k3s/k3s跨云服务商集群搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Post/k3s/k3s跨云服务商集群搭建.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3024adf2c9b97bef",
+  "active": "7555bb767e446215",
   "lastOpenFiles": [
+    "Post/k3s/k3s跨云服务商集群搭建.md",
     "Post/k3s/k3s集群搭建.md",
     "Post/k3s/重启k3s.md",
     "Post/Minio分片上传.md",
@@ -162,7 +155,6 @@
     "Untitled.canvas",
     "Post/Docker生成镜像时删除dangling镜像.md",
     "Post/k3s/检测k8s service域名是否生效.md",
-    "Post/k3s/k3s跨云服务商集群搭建.md",
     "Post/k3s/强制删除k8s namespace.md",
     "Post/k3s/部署Redis集群.md",
     "Post/k3s",
