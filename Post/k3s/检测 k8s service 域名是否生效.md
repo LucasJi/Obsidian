@@ -1,14 +1,16 @@
+运行 busybox 容器
 
 ```
-# 运行busybox pod
 kubectl run dns-test -it --image=busybox:1.28 --rm
+```
 
-# 在busybox容器内使用nslookup命令检测域名是否生效, 以redis主从架构为例
+在busybox容器内使用nslookup命令检测域名是否生效, 以redis主从架构为例
 
+```
 nslookup my-redis-headless
 ```
 
-结果:
+运行结果
 
 ```
 / # nslookup my-redis-headless

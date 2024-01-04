@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0773b6e728cc8120",
+        "id": "8bb9a6bd24eb70f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7555bb767e446215",
+            "id": "7dbd77ac947033ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md"
+              }
             }
           }
         ]
@@ -140,28 +148,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7555bb767e446215",
+  "active": "7dbd77ac947033ee",
   "lastOpenFiles": [
-    "Post/k3s/k3s跨云服务商集群搭建.md",
-    "Post/k3s/k3s集群搭建.md",
-    "Post/k3s/重启k3s.md",
-    "Post/Minio分片上传.md",
-    "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
+    "Post/k3s/重启 k3s.md",
+    "Post/k3s/部署 Redis 集群.md",
+    "Post/k3s/检测 k8s service 域名是否生效.md",
+    "Untitled.canvas",
+    "Post/k3s/强制删除 k8s namespace.md",
+    "README.md",
+    "Post/k3s/k3s 跨云服务商集群搭建.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Post/Minio 分片上传.md",
+    "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
+    "Post/Docker 生成镜像时删除 dangling 镜像.md",
+    "Post/k3s/k3s集群搭建.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Untitled.canvas",
-    "Post/Docker生成镜像时删除dangling镜像.md",
-    "Post/k3s/检测k8s service域名是否生效.md",
-    "Post/k3s/强制删除k8s namespace.md",
-    "Post/k3s/部署Redis集群.md",
     "Post/k3s",
     "Kanban/Work.md",
     "Post",
     "Kanban",
-    "README.md",
     "使用kubeadm在CentOS7上部署k8s.md",
     "Oauth2登录流程.md",
     "Obsidian/README.md",
