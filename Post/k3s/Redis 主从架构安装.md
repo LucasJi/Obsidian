@@ -33,7 +33,7 @@ kubectl port-forward --namespace default svc/my-redis-master 6379:6379
 kubectl run --namespace default redis-client --restart='Never'  --env REDIS_PASSWORD=$REDIS_PASSWORD  --image docker.io/bitnami/redis:7.2.3-debian-11-r1 --command -- sleep infinity
 ```
 
-## 使用 redis-cli 连接到 Redis 集群
+## 使用 redis-cli 连接到 Redis
 
 ### 进入 redis-cli pod
 
@@ -46,3 +46,7 @@ kubectl exec --tty -i redis-client --namespace default -- bash
 ```
 redis-cli -c -h my-redis-headless -a $password
 ```
+
+## 查看主从节点地址
+
+[[检测 k8s service 域名是否生效]]

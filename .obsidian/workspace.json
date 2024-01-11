@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb9a6bd24eb70f0",
+        "id": "d95c8fd43f58e395",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbd77ac947033ee",
+            "id": "ee273319f9353fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
+                "file": "Post/k3s/Redis 主从架构安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
+                "file": "Post/k3s/Redis 主从架构安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
+                "file": "Post/k3s/Redis 主从架构安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/k3s/k3s 跨云服务商集群搭建.md"
+                "file": "Post/k3s/Redis 主从架构安装.md"
               }
             }
           }
@@ -148,15 +148,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dbd77ac947033ee",
+  "active": "ee273319f9353fdc",
   "lastOpenFiles": [
-    "Post/k3s/重启 k3s.md",
-    "Post/k3s/部署 Redis 集群.md",
     "Post/k3s/检测 k8s service 域名是否生效.md",
+    "Post/k3s/Redis 主从架构安装.md",
+    "Post/k3s/k3s 跨云服务商集群搭建.md",
+    "Post/k3s/重启 k3s.md",
     "Untitled.canvas",
     "Post/k3s/强制删除 k8s namespace.md",
     "README.md",
-    "Post/k3s/k3s 跨云服务商集群搭建.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
     "Post/Minio 分片上传.md",
