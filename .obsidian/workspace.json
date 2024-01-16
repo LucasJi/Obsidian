@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/音频预标注业务实现思路.md",
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/音频预标注业务实现思路.md",
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/音频预标注业务实现思路.md",
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/音频预标注业务实现思路.md"
+                "file": "Post/k3s/k3s 跨云服务商集群搭建.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "8313745236f1cea1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Post/音频预标注业务实现思路.md",
+    "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "Post/k3s/Redis 主从架构安装.md",
     "Post/k3s/检测 k8s service 域名是否生效.md",
