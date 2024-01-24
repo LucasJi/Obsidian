@@ -1,7 +1,7 @@
 ## 使用 helm 安装 Redis  
 
   
-1. 创建`values.yaml`文件, 自定义配置. 文件内容参考[官方配置](https://artifacthub.io/packages/helm/bitnami/redis).  
+1. 创建 `values.yaml` 文件, 自定义配置. 文件内容参考 [官方配置](https://artifacthub.io/packages/helm/bitnami/redis).  
 ```yaml
 auth:  
   enable: true  

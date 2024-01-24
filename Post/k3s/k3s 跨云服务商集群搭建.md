@@ -1,14 +1,14 @@
 ## 简介
 
-由于国内云服务商的优惠通常仅限于一台服务器，因此想低成本地获取多台服务器，只能向多个云服务商购买服务器。不同服务商之间地服务器只能通过公网通信，这会导致使用常用方法搭建的k3s集群的节点之间无法正常通信。为了解决这个问题，我们需要使用 WireGuard 来组网。
+由于国内云服务商的优惠通常仅限于一台服务器，因此想低成本地获取多台服务器，只能向多个云服务商购买服务器。不同服务商之间地服务器只能通过公网通信，这会导致使用常用方法搭建的 k3s 集群的节点之间无法正常通信。为了解决这个问题，我们需要使用 WireGuard 来组网。
 
 ## 安装 WireGuard
 
-在搭建跨云的 k3s 集群之前，需要将 WireGuard 安装在集群中的每台服务器上。WireGuard 对内核有要求，需要升级到`5.15.2-1.el7.elrepo.x86_64`以上。
+在搭建跨云的 k3s 集群之前，需要将 WireGuard 安装在集群中的每台服务器上。WireGuard 对内核有要求，需要升级到 `5.15.2-1.el7.elrepo.x86_64` 以上。
 
 本人使用两台分别来自腾讯云和阿里云的轻量云服务器组建 k3s 集群。来自腾讯云的服务器将作为 master 节点，来自阿里云的服务器将作为 node-1 节点。两台服务器均安装 `CentOS7.6`。
 
-分别在master和node-1节点执行如下命令开启IP地址转发
+分别在 master 和 node-1 节点执行如下命令开启 IP 地址转发
 
 ``` bash
 echo "net.ipv4.ip_forward = 1" >> /etc/sysctl.conf
@@ -131,7 +131,7 @@ yum install yum-plugin-elrepo kmod-wireguard wireguard-tools -y
 
 #### 在 master 节点
 
-执行如下操作在当前目录生成 `privatekey` 和 `publickey` 两个文件。`privatekey` 配置在本机而`publickey`配置在其他机器。
+执行如下操作在当前目录生成 `privatekey` 和 `publickey` 两个文件。`privatekey` 配置在本机而 `publickey` 配置在其他机器。
 
 ```
 wg genkey | tee privatekey | wg pubkey > publickey
@@ -159,7 +159,7 @@ AllowedIPs = 192.168.2.2/32
 
 #### 在 node-1 节点
 
-执行如下操作在当前目录生成 `privatekey` 和 `publickey` 两个文件。`privatekey` 配置在本机而`publickey`配置在其他机器。
+执行如下操作在当前目录生成 `privatekey` 和 `publickey` 两个文件。`privatekey` 配置在本机而 `publickey` 配置在其他机器。
 
 ```
 wg genkey | tee privatekey | wg pubkey > publickey
@@ -187,7 +187,7 @@ AllowedIPs = 192.168.2.1/32
 
 ### 开放端口
 
-到云厂商的防火墙（安全组）规则配置处开放 `5418` 端口，下行规则，协议为UDP
+到云厂商的防火墙（安全组）规则配置处开放 `5418` 端口，下行规则，协议为 UDP
 
 ### 启动 WireGuard
 
@@ -199,7 +199,7 @@ wg-quick up wg0
 
 上面命令中的 `wg0` 对应的是 `/etc/wireguard/wg0.conf` 这个配置文件，其自动创建的网卡设备，名字就是 `wg0`
 
-创建好虚拟网卡之后就可以测试是否联通了。我们在 master 节点执行如下命令（`192.168.2.2` 是 node-1 节点的虚拟ip）
+创建好虚拟网卡之后就可以测试是否联通了。我们在 master 节点执行如下命令（`192.168.2.2` 是 node-1 节点的虚拟 ip）
 
 ```
 ping 192.168.2.2
@@ -223,7 +223,7 @@ rtt min/avg/max/mdev = 8.587/8.623/8.642/0.080 ms
 
 ### 自动化配置
 
-系统重启后，`WireGuard` 创建的网卡设备就会丢失，`WireGuard`提供了自动化的脚本来解决这件事，在两台服务器都执行如下操作
+系统重启后，`WireGuard` 创建的网卡设备就会丢失，`WireGuard` 提供了自动化的脚本来解决这件事，在两台服务器都执行如下操作
 
 ```
 systemctl enable wg-quick@wg0
@@ -258,8 +258,8 @@ curl -sfL http://rancher-mirror.cnrancher.com/k3s/k3s-install.sh | INSTALL_K3S_M
 
 参数说明：
 
-- `--node-external-ip`:  当前节点的外部 IP 即公网 IP
-- `--advertise-address`:  用于设置 kubectl 工具以及子节点进行通讯使用的地址，可以是 IP，也可以是域名，在创建 apiserver 证书时会将此设置到有效域中。使用公网 IP
+- `--node-external-ip`: 当前节点的外部 IP 即公网 IP
+- `--advertise-address`: 用于设置 kubectl 工具以及子节点进行通讯使用的地址，可以是 IP，也可以是域名，在创建 apiserver 证书时会将此设置到有效域中。使用公网 IP
 - `--node-ip`：上文中约定的的虚拟 IP
 - `--flannel-iface wg0`:  wg0 是 WireGuard 创建的网卡设备。因为使用虚拟局域网来进行节点间的通信，所以这里需要指定为 wg0。
 
