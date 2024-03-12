@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/从业务出发理解MongoDB查询优化.md",
+                "file": "Post/k3s/检测 k8s service 域名是否生效.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -69,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 441.5
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/从业务出发理解MongoDB查询优化.md",
+                "file": "Post/k3s/检测 k8s service 域名是否生效.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/从业务出发理解MongoDB查询优化.md",
+                "file": "Post/k3s/检测 k8s service 域名是否生效.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/从业务出发理解MongoDB查询优化.md"
+                "file": "Post/k3s/检测 k8s service 域名是否生效.md"
               }
             }
           }
@@ -150,16 +150,16 @@
   },
   "active": "75d2db4434b1d078",
   "lastOpenFiles": [
-    "Post/音频预标注业务实现思路.md",
-    "Post/从业务出发理解MongoDB查询优化.md",
-    "README.md",
     "Post/k3s/Redis 主从架构安装.md",
-    "Post/k3s/强制删除 k8s namespace.md",
-    "Post/k3s/检测 k8s service 域名是否生效.md",
     "Post/k3s/k3s 跨云服务商集群搭建.md",
-    "Post/k3s/重启 k3s.md",
     "Post/Docker 生成镜像时删除 dangling 镜像.md",
     "Post/CSRF - 跨站点请求伪造.md",
+    "Post/音频预标注业务健壮性支持实现思路.md",
+    "Post/记一次简单的 MongoDB 管道查询优化.md",
+    "README.md",
+    "Post/k3s/强制删除 k8s namespace.md",
+    "Post/k3s/检测 k8s service 域名是否生效.md",
+    "Post/k3s/重启 k3s.md",
     "Post/Minio 分片上传.md",
     "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
