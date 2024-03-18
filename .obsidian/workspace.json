@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bef39321ee554b9",
+        "id": "0bc734e76cfcc22b",
         "type": "tabs",
         "children": [
           {
-            "id": "f206883fef7d1132",
+            "id": "321774488adef3d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,18 +139,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3f2b4fe5b8d91f",
+  "active": "321774488adef3d1",
   "lastOpenFiles": [
-    "Post/记一次简单的 MongoDB 管道查询优化.md",
-    "Post/k3s/检测 k8s service 域名是否生效.md",
-    "Post/k3s/强制删除 k8s namespace.md",
-    "Post/k3s/Redis 主从架构安装.md",
-    "Post/k3s/k3s 跨云服务商集群搭建.md",
-    "Post/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/CSRF - 跨站点请求伪造.md",
-    "Post/音频预标注业务健壮性支持实现思路.md",
+    "Post/Docker",
+    "Post/网络安全",
+    "Post/业务",
+    "Post/Database/MongoDB",
+    "Post/Database",
+    "Post/K3s/检测 k8s service 域名是否生效.md",
+    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
+    "Post/K3s/强制删除 k8s namespace.md",
+    "Post/K3s/Redis 主从架构安装.md",
+    "Post/K3s/k3s 跨云服务商集群搭建.md",
+    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+    "Post/网络安全/CSRF - 跨站点请求伪造.md",
+    "Post/业务/音频预标注业务健壮性支持实现思路.md",
     "README.md",
-    "Post/k3s/重启 k3s.md",
+    "Post/K3s/重启 k3s.md",
     "Post/Minio 分片上传.md",
     "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
@@ -160,13 +165,12 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Post/k3s",
+    "Post/K3s",
     "Kanban/Work.md",
     "Post",
     "Kanban",
     "使用kubeadm在CentOS7上部署k8s.md",
     "Oauth2登录流程.md",
-    "Obsidian/README.md",
-    "Obsidian"
+    "Obsidian/README.md"
   ]
 }
