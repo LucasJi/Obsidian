@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b87ac1f6b56891",
+        "id": "4b0efaeeb577ff75",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ff28e15ab1c25b",
+            "id": "64c74018172422cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
+                "file": "Post/面试题/笔试.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 241.5
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
+                "file": "Post/面试题/笔试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
+                "file": "Post/面试题/笔试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md"
+                "file": "Post/面试题/笔试.md"
               }
             }
           }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,34 +149,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3f2b4fe5b8d91f",
+  "active": "64c74018172422cc",
   "lastOpenFiles": [
-    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/K3s/重启 k3s.md",
-    "Post/React",
-    "Post/Docker",
+    "Post/面试题/TODO.md",
+    "Post/面试题/笔试.md",
+    "Post/面试题",
+    "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/网络安全",
+    "Post/业务/音频预标注业务健壮性支持实现思路.md",
     "Post/业务",
+    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+    "Post/Docker",
+    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
     "Post/Database/MongoDB",
     "Post/Database",
-    "Post/K3s/检测 k8s service 域名是否生效.md",
-    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
-    "Post/K3s/强制删除 k8s namespace.md",
-    "Post/K3s/Redis 主从架构安装.md",
-    "Post/K3s/k3s 跨云服务商集群搭建.md",
-    "Post/网络安全/CSRF - 跨站点请求伪造.md",
-    "Post/业务/音频预标注业务健壮性支持实现思路.md",
-    "README.md",
+    "Post/从业务出发理解MongoDB查询优化.md",
+    "Post/音频预标注业务实现思路.md",
+    "Post/k3s/Redis 主从架构安装.md",
+    "Post/CSRF - 跨站点请求伪造.md",
+    "Post/Docker 生成镜像时删除 dangling 镜像.md",
     "Post/Minio 分片上传.md",
+    "Post/k3s/检测 k8s service 域名是否生效.md",
+    "Post/k3s/强制删除 k8s namespace.md",
+    "Post/k3s/重启 k3s.md",
+    "Post/k3s/k3s 跨云服务商集群搭建.md",
     "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "Untitled.canvas",
+    "README.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
     "Post/k3s/k3s集群搭建.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Post/K3s",
+    "Post/k3s",
     "Kanban/Work.md",
     "使用kubeadm在CentOS7上部署k8s.md",
     "Oauth2登录流程.md",
