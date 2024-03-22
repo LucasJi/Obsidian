@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc734e76cfcc22b",
+        "id": "b3b87ac1f6b56891",
         "type": "tabs",
         "children": [
           {
-            "id": "321774488adef3d1",
+            "id": "c7ff28e15ab1c25b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post/网络安全/CSRF - 跨站点请求伪造.md"
+              }
             }
           }
         ],
@@ -139,8 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "321774488adef3d1",
+  "active": "fa3f2b4fe5b8d91f",
   "lastOpenFiles": [
+    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+    "Post/K3s/重启 k3s.md",
+    "Post/React",
     "Post/Docker",
     "Post/网络安全",
     "Post/业务",
@@ -151,11 +163,9 @@
     "Post/K3s/强制删除 k8s namespace.md",
     "Post/K3s/Redis 主从架构安装.md",
     "Post/K3s/k3s 跨云服务商集群搭建.md",
-    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/业务/音频预标注业务健壮性支持实现思路.md",
     "README.md",
-    "Post/K3s/重启 k3s.md",
     "Post/Minio 分片上传.md",
     "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
@@ -167,8 +177,6 @@
     "Excalidraw",
     "Post/K3s",
     "Kanban/Work.md",
-    "Post",
-    "Kanban",
     "使用kubeadm在CentOS7上部署k8s.md",
     "Oauth2登录流程.md",
     "Obsidian/README.md"
