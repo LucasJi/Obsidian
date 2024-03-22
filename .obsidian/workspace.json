@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0efaeeb577ff75",
+        "id": "591fc21dc8639f37",
         "type": "tabs",
         "children": [
           {
-            "id": "64c74018172422cc",
+            "id": "983299c26353902f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/面试题/笔试.md",
+                "file": "Post/玄学/紫薇斗数/术语/地支.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/面试题/笔试.md",
+                "file": "Post/玄学/紫薇斗数/术语/地支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/面试题/笔试.md",
+                "file": "Post/玄学/紫薇斗数/术语/地支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/面试题/笔试.md"
+                "file": "Post/玄学/紫薇斗数/术语/地支.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +148,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64c74018172422cc",
+  "active": "983299c26353902f",
   "lastOpenFiles": [
-    "Post/面试题/TODO.md",
+    "Post/玄学/紫薇斗数/术语/对宫.md",
+    "Post/玄学/紫薇斗数/术语/地支.md",
+    "Post/玄学/紫薇斗数/术语/本宫.md",
+    "Post/玄学/紫薇斗数/术语/宫垣.md",
+    "Post/玄学/紫薇斗数/术语/星情.md",
+    "Post/玄学/紫薇斗数/术语/四化星.md",
+    "Post/玄学/紫薇斗数/术语/煞星.md",
+    "Post/玄学/紫薇斗数/术语/甲级星.md",
+    "Post/玄学/紫薇斗数/术语/吉星.md",
+    "Post/玄学/紫薇斗数/术语/杂曜.md",
+    "Post/玄学/紫薇斗数/术语/副星.md",
+    "Post/玄学/紫薇斗数/术语/正星.md",
+    "Post/玄学/紫薇斗数/术语/星宿.md",
+    "Post/玄学/紫薇斗数/术语/辅星.md",
+    "Post/玄学/紫薇斗数/术语.md",
+    "Post/玄学/紫薇斗数/术语",
     "Post/面试题/笔试.md",
+    "Post/玄学/紫薇斗数",
+    "Post/玄学",
+    "Post/面试题/TODO.md",
     "Post/面试题",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/网络安全",
@@ -168,24 +185,8 @@
     "Post/k3s/Redis 主从架构安装.md",
     "Post/CSRF - 跨站点请求伪造.md",
     "Post/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/Minio 分片上传.md",
-    "Post/k3s/检测 k8s service 域名是否生效.md",
-    "Post/k3s/强制删除 k8s namespace.md",
-    "Post/k3s/重启 k3s.md",
-    "Post/k3s/k3s 跨云服务商集群搭建.md",
-    "Excalidraw/Drawing 2023-12-05 12.49.11.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "Untitled.canvas",
-    "README.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "Post/k3s/k3s集群搭建.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Post/k3s",
-    "Kanban/Work.md",
-    "使用kubeadm在CentOS7上部署k8s.md",
-    "Oauth2登录流程.md",
-    "Obsidian/README.md"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
