@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb628535d0de128",
+        "id": "be0bd417e62b5c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "958822220ef3fd72",
+            "id": "46f364adcff037c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +119,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md"
+                "file": "Post/面试题/一面.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,34 +142,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "958822220ef3fd72",
+  "active": "fa3f2b4fe5b8d91f",
   "lastOpenFiles": [
+    "Post/面试题/一面.md",
+    "Post/面试题/Redis.md",
+    "Post/面试题/MySQL.md",
     "Post/玄学/紫薇斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫薇斗数/术语/吉星.md",
-    "Post/玄学/紫薇斗数/术语/四化星.md",
-    "Post/玄学/紫薇斗数/术语/副星.md",
     "Post/玄学/紫薇斗数/术语/辅星.md",
-    "Post/玄学/紫薇斗数/术语/甲级星.md",
-    "Post/玄学/紫薇斗数/术语/星曜亮度.md",
-    "Post/玄学/紫薇斗数/术语/杀破狼.md",
-    "Post/玄学/紫薇斗数/术语/四恶曜.md",
-    "Post/玄学/紫薇斗数/术语/流年.md",
-    "Post/玄学/紫薇斗数/术语/大限.md",
     "Post/玄学/紫薇斗数/术语/辅与夹.md",
-    "Post/玄学/紫薇斗数/术语/会与照.md",
-    "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
-    "Post/玄学/紫薇斗数/术语/正星.md",
-    "Post/玄学/紫薇斗数/术语/星耀.md",
+    "Post/玄学/紫薇斗数/术语/甲级星.md",
     "Post/玄学/紫薇斗数/术语/煞星.md",
-    "Post/玄学/紫薇斗数/术语/三方四正.md",
-    "Post/玄学/紫薇斗数/术语/宫垣.md",
-    "Post/玄学/紫薇斗数/术语/朝与冲.md",
-    "Post/玄学/紫薇斗数/术语/本宫.md",
-    "Post/玄学/紫薇斗数/术语/对宫.md",
-    "Post/玄学/紫薇斗数/术语/三合宫.md",
-    "Post/玄学/紫薇斗数/术语/地支.md",
-    "Post/玄学/紫薇斗数/术语/星情.md",
+    "Post/玄学/紫薇斗数/术语/流年.md",
+    "Post/玄学/紫薇斗数/术语/正星.md",
     "Post/玄学/紫薇斗数/术语/杂曜.md",
+    "Post/玄学/紫薇斗数/术语/杀破狼.md",
+    "Post/玄学/紫薇斗数/术语/本宫.md",
+    "Post/玄学/紫薇斗数/术语/朝与冲.md",
+    "Post/玄学/紫薇斗数/术语/星耀.md",
+    "Post/玄学/紫薇斗数/术语/星曜亮度.md",
+    "Post/玄学/紫薇斗数/术语/星情.md",
+    "Post/玄学/紫薇斗数/术语/对宫.md",
+    "Post/玄学/紫薇斗数/术语/宫垣.md",
+    "Post/玄学/紫薇斗数/术语/大限.md",
+    "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
+    "Post/玄学/紫薇斗数/术语/地支.md",
+    "Post/玄学/紫薇斗数/术语/四恶曜.md",
+    "Post/玄学/紫薇斗数/术语/四化星.md",
+    "Post/玄学/紫薇斗数/术语/吉星.md",
+    "Post/玄学/紫薇斗数/术语/副星.md",
     "Post/玄学/紫薇斗数/术语",
     "Post/玄学/紫薇斗数",
     "Post/玄学",
