@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ccc825d6f92b9ac",
+        "id": "6362a7e5a5c01ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "a81bb3ce7b85726f",
+            "id": "748e91bb36e26da8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
+                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
+                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md",
+                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/会与照.md"
+                "file": "Post/玄学/紫薇斗数/术语/吉星.md"
               }
             }
           }
@@ -148,15 +148,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a81bb3ce7b85726f",
+  "active": "748e91bb36e26da8",
   "lastOpenFiles": [
+    "Post/玄学/紫薇斗数/术语/会与照.md",
     "Post/玄学/紫薇斗数/术语/朝与冲.md",
     "Post/面试题/笔试.md",
     "Post/面试题/TODO.md",
     "Post/玄学/紫薇斗数/术语/地支.md",
     "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
     "Post/玄学/紫薇斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫薇斗数/术语/会与照.md",
     "Post/玄学/紫薇斗数/术语/吉星.md",
     "Post/玄学/紫薇斗数/术语/四化星.md",
     "Post/玄学/紫薇斗数/术语/副星.md",
