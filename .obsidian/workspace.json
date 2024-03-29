@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/吉星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/玄学/紫薇斗数/术语/吉星.md"
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md"
               }
             }
           }
@@ -150,14 +150,17 @@
   },
   "active": "748e91bb36e26da8",
   "lastOpenFiles": [
+    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
+    "Post/业务/音频预标注业务健壮性支持实现思路.md",
+    "Post/网络安全/CSRF - 跨站点请求伪造.md",
+    "Post/面试题/笔试.md",
+    "Post/玄学/紫薇斗数/术语/吉星.md",
     "Post/玄学/紫薇斗数/术语/会与照.md",
     "Post/玄学/紫薇斗数/术语/朝与冲.md",
-    "Post/面试题/笔试.md",
     "Post/面试题/TODO.md",
     "Post/玄学/紫薇斗数/术语/地支.md",
     "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
     "Post/玄学/紫薇斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫薇斗数/术语/吉星.md",
     "Post/玄学/紫薇斗数/术语/四化星.md",
     "Post/玄学/紫薇斗数/术语/副星.md",
     "Post/玄学/紫薇斗数/术语/辅星.md",
@@ -173,9 +176,6 @@
     "Post/玄学/紫薇斗数/术语/煞星.md",
     "Post/玄学/紫薇斗数/术语/三方四正.md",
     "Post/玄学/紫薇斗数/术语/宫垣.md",
-    "Post/玄学/紫薇斗数/术语/本宫.md",
-    "Post/玄学/紫薇斗数/术语/对宫.md",
-    "Post/玄学/紫薇斗数/术语/三合宫.md",
     "Post/玄学/紫薇斗数/术语",
     "Post/玄学/紫薇斗数",
     "Post/玄学",
