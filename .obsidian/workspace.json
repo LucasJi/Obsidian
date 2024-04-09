@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4483c2f9d8aa941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aliases/Add an alias to a note.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
+                "file": "Aliases/Add an alias to a note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
+                "file": "Aliases/Add an alias to a note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md"
+                "file": "Aliases/Add an alias to a note.md"
               }
             }
           },
@@ -143,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +171,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ace16dd957621816",
+  "active": "fa3f2b4fe5b8d91f",
   "lastOpenFiles": [
+    "Aliases/Link to a note using an alias.md",
+    "Aliases/Add an alias to a note.md",
+    "README.md",
+    "Wikilink/Change the link display text.md",
+    "Wikilink/Link to a heading in a note.md",
+    "Wikilink/Link to a file.md",
+    "Wikilink/Link to a block in a note.md",
+    "Demo/Demo.md",
+    "Aliases",
+    "Demo",
+    "Markdown basic features.md",
+    "Demos/Demo 1.md",
+    "Wikilink",
+    "Demos",
     "Post/K3s/检测 k8s service 域名是否生效.md",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/业务/音频预标注业务健壮性支持实现思路.md",
@@ -174,27 +203,13 @@
     "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
     "Post/玄学/紫薇斗数/术语/遇、加、逢、同.md",
     "Post/玄学/紫薇斗数/术语/四化星.md",
-    "Post/玄学/紫薇斗数/术语/副星.md",
-    "Post/玄学/紫薇斗数/术语/辅星.md",
-    "Post/玄学/紫薇斗数/术语/甲级星.md",
-    "Post/玄学/紫薇斗数/术语/星曜亮度.md",
-    "Post/玄学/紫薇斗数/术语/杀破狼.md",
-    "Post/玄学/紫薇斗数/术语/四恶曜.md",
-    "Post/玄学/紫薇斗数/术语/流年.md",
-    "Post/玄学/紫薇斗数/术语/大限.md",
-    "Post/玄学/紫薇斗数/术语/辅与夹.md",
-    "Post/玄学/紫薇斗数/术语/正星.md",
     "Post/玄学/紫薇斗数/术语",
     "Post/玄学/紫薇斗数",
     "Post/玄学",
     "Post/面试题",
     "Post/网络安全",
     "Post/业务",
-    "Post/Docker",
-    "Post/Database/MongoDB",
-    "Post/Database",
     "Untitled.canvas",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded"
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
   ]
 }
