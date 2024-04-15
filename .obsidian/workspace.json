@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d5efb71ae80f0c00",
+        "id": "ef7f3c7d6bae91cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ace16dd957621816",
+            "id": "2492d7e880356b2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4483c2f9d8aa941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+                "file": "Post/系统设计/RBAC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+                "file": "Post/系统设计/RBAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+                "file": "Post/系统设计/RBAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md"
+                "file": "Post/系统设计/RBAC.md"
               }
             }
           },
@@ -164,20 +150,31 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4483c2f9d8aa941",
+  "active": "2492d7e880356b2d",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/RBAC3.md",
+    "Post/系统设计/RBAC.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Untitled.canvas",
+    "README.md",
+    "Post/系统设计",
     "Post/业务/音频预标注业务健壮性支持实现思路.md",
+    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
     "Post/业务/医疗器械进销存系统.md",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
-    "README.md",
     "Aliases/Link to a note using an alias.md",
     "Aliases/Add an alias to a note.md",
     "Wikilink/Change the link display text.md",
@@ -194,22 +191,12 @@
     "Post/K3s/检测 k8s service 域名是否生效.md",
     "2024-03-29.md",
     "Post/面试题/笔试.md",
-    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
     "Post/玄学/紫薇斗数/术语/吉星.md",
     "Post/玄学/紫薇斗数/术语/会与照.md",
     "Post/玄学/紫薇斗数/术语/朝与冲.md",
     "Post/面试题/TODO.md",
-    "Post/玄学/紫薇斗数/术语/地支.md",
-    "Post/玄学/紫薇斗数/术语/坐、锯、守.md",
-    "Post/玄学/紫薇斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫薇斗数/术语/四化星.md",
     "Post/玄学/紫薇斗数/术语",
     "Post/玄学/紫薇斗数",
-    "Post/玄学",
-    "Post/面试题",
-    "Post/网络安全",
-    "Post/业务",
-    "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
   ]
 }
