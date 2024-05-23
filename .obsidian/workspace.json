@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
+                "file": "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
+                "file": "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md",
+                "file": "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/K3s/Redis 主从架构安装.md"
+                "file": "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md"
               }
             }
           },
@@ -158,46 +158,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2483dd26394a7fe1",
+  "active": "fa3f2b4fe5b8d91f",
   "lastOpenFiles": [
+    "Post/玄学/紫微斗数/星情/天机.md",
+    "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
+    "Post/玄学/紫微斗数/星情/紫微.md",
+    "Post/玄学/紫微斗数/术语/吉星.md",
+    "Post/玄学/紫微斗数/星情",
+    "Post/玄学/紫微斗数/术语/会与照.md",
+    "Post/玄学/紫微斗数/术语/遇、加、逢、同.md",
+    "Post/玄学/紫微斗数/术语/辅星.md",
+    "Post/玄学/紫微斗数/术语/副星.md",
+    "Post/玄学/紫微斗数/术语/宫垣.md",
+    "Post/玄学/紫微斗数/术语/甲级星.md",
+    "Post/玄学/紫微斗数/术语/星曜亮度.md",
+    "Post/玄学/紫微斗数/术语/星耀.md",
+    "Post/玄学/紫微斗数/术语/星情.md",
+    "Post/玄学/紫微斗数/术语/四化星.md",
+    "Post/玄学/紫微斗数/术语/煞星.md",
+    "Post/玄学/紫微斗数/术语/辅与夹.md",
+    "Post/玄学/紫微斗数/术语/四恶曜.md",
+    "Post/玄学/紫微斗数/术语/杀破狼.md",
+    "Post/玄学/紫微斗数/术语/朝与冲.md",
+    "Post/K3s/Redis 主从架构安装.md",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/系统设计/RBAC.md",
-    "Post/K3s/Redis 主从架构安装.md",
     "Post/K3s/强制删除 k8s namespace.md",
     "Post/K3s/检测 k8s service 域名是否生效.md",
     "README.md",
     "Excalidraw/RBAC3.md",
-    "Post/玄学/紫薇斗数/术语/朝与冲.md",
-    "Post/玄学/紫薇斗数/术语/本宫.md",
-    "Post/业务/Docker容器中的Java程序堆栈分析.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Untitled.canvas",
     "Post/系统设计",
-    "Post/业务/音频预标注业务健壮性支持实现思路.md",
-    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/业务/医疗器械进销存系统.md",
-    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
-    "Aliases/Link to a note using an alias.md",
-    "Aliases/Add an alias to a note.md",
-    "Wikilink/Change the link display text.md",
-    "Wikilink/Link to a heading in a note.md",
-    "Wikilink/Link to a file.md",
-    "Wikilink/Link to a block in a note.md",
-    "Demo/Demo.md",
     "Aliases",
     "Demo",
-    "Markdown basic features.md",
-    "Demos/Demo 1.md",
     "Wikilink",
     "Demos",
-    "2024-03-29.md",
-    "Post/面试题/笔试.md",
-    "Post/玄学/紫薇斗数/术语",
-    "Post/玄学/紫薇斗数",
+    "Post/玄学/紫微斗数/术语",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
   ]
 }
