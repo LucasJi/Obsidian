@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e69a04b48ce3a07",
+        "id": "fcecdb8a854cc628",
         "type": "tabs",
         "children": [
           {
-            "id": "b756c72fc6ff870b",
+            "id": "86a3613e57423f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/玄学/紫微斗数/术语/会与照.md",
+                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 245.5
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/玄学/紫微斗数/术语/会与照.md",
+                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/玄学/紫微斗数/术语/会与照.md",
+                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/玄学/紫微斗数/术语/会与照.md"
+                "file": "Post/玄学/紫微斗数/星情/紫微星.md"
               }
             }
           },
@@ -158,36 +158,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b756c72fc6ff870b",
+  "active": "86a3613e57423f85",
   "lastOpenFiles": [
-    "Post/玄学/紫微斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫微斗数/星情/紫微.md",
-    "Post/玄学/紫微斗数/术语/本宫.md",
-    "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
-    "Post/玄学/紫微斗数/钦天四化紫微斗数命理学.md",
+    "Post/玄学/紫微斗数/紫微探真.md",
+    "Post/玄学/紫微斗数/宫位/命宫.md",
+    "Post/玄学/紫微斗数/术语/一六共宗.md",
     "Post/玄学/紫微斗数/宫位/父母宫.md",
     "Post/玄学/紫微斗数/宫位/福德宫.md",
     "Post/玄学/紫微斗数/宫位/田宅宫.md",
-    "Post/玄学/紫微斗数/宫位/官禄宫.md",
+    "Post/玄学/紫微斗数/宫位/官禄宫（事业宫）.md",
     "Post/玄学/紫微斗数/宫位/奴仆宫（交友宫）.md",
-    "Post/玄学/紫微斗数/宫位/兄弟宫.md",
     "Post/玄学/紫微斗数/宫位/迁移宫.md",
-    "Post/玄学/紫微斗数/宫位/疾恶宫.md",
+    "Post/玄学/紫微斗数/宫位/疾厄宫.md",
     "Post/玄学/紫微斗数/宫位/财帛宫.md",
     "Post/玄学/紫微斗数/宫位/子女宫.md",
     "Post/玄学/紫微斗数/宫位/夫妻宫.md",
-    "Post/玄学/紫微斗数/宫位/命宫.md",
+    "Post/玄学/紫微斗数/宫位/兄弟宫.md",
+    "Post/玄学/紫微斗数/术语/会与照.md",
+    "Post/玄学/紫微斗数/术语/遇、加、逢、同.md",
+    "Post/玄学/紫微斗数/星情/紫微星.md",
+    "Post/玄学/紫微斗数/术语/本宫.md",
+    "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
+    "Post/玄学/紫微斗数/钦天四化紫微斗数命理学.md",
     "Post/玄学/紫微斗数/星情/天机.md",
     "Post/玄学/紫微斗数/宫位",
     "Post/玄学/紫微斗数/术语/吉星.md",
     "Post/玄学/紫微斗数/星情",
-    "Post/玄学/紫微斗数/术语/会与照.md",
     "Post/玄学/紫微斗数/术语/辅星.md",
     "Post/玄学/紫微斗数/术语/副星.md",
     "Post/玄学/紫微斗数/术语/宫垣.md",
     "Post/玄学/紫微斗数/术语/甲级星.md",
-    "Post/玄学/紫微斗数/术语/星曜亮度.md",
-    "Post/玄学/紫微斗数/术语/星耀.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

@@ -9,10 +9,10 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
-      "enabled": false,
+      "enabled": true,
       "alias-key": true,
       "tag-key": true,
       "default-array-style": "single-line",
@@ -90,7 +90,7 @@
       "enabled": false
     },
     "auto-correct-common-misspellings": {
-      "enabled": false,
+      "enabled": true,
       "ignore-words": ""
     },
     "blockquote-style": {
@@ -236,7 +236,7 @@
       "enabled": false
     },
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
       "enabled": false,
