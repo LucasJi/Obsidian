@@ -6,7 +6,7 @@
 
 ## 现有问题
 
-新建任务获取数据集列表的接口耗时太久——7s 左右。![image.png](https://obsidian-1312372886.cos.ap-shanghai.myqcloud.com/20240220153216.png)
+新建任务获取数据集列表的接口耗时太久——7s 左右。
 
 ## 问题分析
 
@@ -222,6 +222,4 @@ try (MongoCursor<Document> iterator = documents.iterator()) {
 
 ### 改进之后耗时统计
 
-![image.png](https://obsidian-1312372886.cos.ap-shanghai.myqcloud.com/20240220163155.png)
-
-如上图所示，改进之后的耗时相比于代码层面的改进有了进一步的降低。
+改进之后的耗时相比于代码层面的改进有了进一步的降低，达 2s 左右。

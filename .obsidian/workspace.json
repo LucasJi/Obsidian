@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/玄学/紫微斗数/星情/紫微星.md",
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/玄学/紫微斗数/星情/紫微星.md"
+                "file": "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md"
               }
             }
           },
@@ -160,34 +160,34 @@
   },
   "active": "86a3613e57423f85",
   "lastOpenFiles": [
-    "Post/玄学/紫微斗数/紫微探真.md",
-    "Post/玄学/紫微斗数/宫位/命宫.md",
+    "Post/K3s/强制删除 k8s namespace.md",
+    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
+    "Post/K3s/检测 k8s service 域名是否生效.md",
+    "Post/业务/音频预标注业务健壮性支持实现思路.md",
+    "Post/业务/Docker容器中的Java程序堆栈分析.md",
+    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
+    "Post/系统设计/RBAC.md",
+    "Post/命理/紫微斗数/星情/紫微星.md",
+    "Post/命理/紫微斗数/紫微探真.md",
+    "Post/命理/紫微斗数/宫位/命宫.md",
     "Post/玄学/紫微斗数/术语/一六共宗.md",
-    "Post/玄学/紫微斗数/宫位/父母宫.md",
-    "Post/玄学/紫微斗数/宫位/福德宫.md",
-    "Post/玄学/紫微斗数/宫位/田宅宫.md",
-    "Post/玄学/紫微斗数/宫位/官禄宫（事业宫）.md",
-    "Post/玄学/紫微斗数/宫位/奴仆宫（交友宫）.md",
-    "Post/玄学/紫微斗数/宫位/迁移宫.md",
-    "Post/玄学/紫微斗数/宫位/疾厄宫.md",
-    "Post/玄学/紫微斗数/宫位/财帛宫.md",
-    "Post/玄学/紫微斗数/宫位/子女宫.md",
-    "Post/玄学/紫微斗数/宫位/夫妻宫.md",
-    "Post/玄学/紫微斗数/宫位/兄弟宫.md",
-    "Post/玄学/紫微斗数/术语/会与照.md",
-    "Post/玄学/紫微斗数/术语/遇、加、逢、同.md",
-    "Post/玄学/紫微斗数/星情/紫微星.md",
-    "Post/玄学/紫微斗数/术语/本宫.md",
-    "Post/玄学/紫微斗数/《十二宫六七二象》基础论断.md",
-    "Post/玄学/紫微斗数/钦天四化紫微斗数命理学.md",
-    "Post/玄学/紫微斗数/星情/天机.md",
-    "Post/玄学/紫微斗数/宫位",
-    "Post/玄学/紫微斗数/术语/吉星.md",
-    "Post/玄学/紫微斗数/星情",
-    "Post/玄学/紫微斗数/术语/辅星.md",
-    "Post/玄学/紫微斗数/术语/副星.md",
-    "Post/玄学/紫微斗数/术语/宫垣.md",
-    "Post/玄学/紫微斗数/术语/甲级星.md",
+    "Post/命理/紫微斗数/宫位/父母宫.md",
+    "Post/命理/紫微斗数/宫位/福德宫.md",
+    "Post/命理/紫微斗数/宫位/田宅宫.md",
+    "Post/命理/紫微斗数/宫位/官禄宫（事业宫）.md",
+    "Post/命理/紫微斗数/宫位/奴仆宫（交友宫）.md",
+    "Post/命理/紫微斗数/宫位/迁移宫.md",
+    "Post/命理/紫微斗数/宫位/疾厄宫.md",
+    "Post/命理/紫微斗数/宫位/财帛宫.md",
+    "Post/命理/紫微斗数/宫位/子女宫.md",
+    "Post/命理/紫微斗数/宫位/夫妻宫.md",
+    "Post/命理/紫微斗数/宫位/兄弟宫.md",
+    "Post/命理/紫微斗数/术语/会与照.md",
+    "Post/命理/紫微斗数/术语/遇、加、逢、同.md",
+    "Post/命理/紫微斗数/术语/本宫.md",
+    "Post/命理/紫微斗数/《十二宫六七二象》基础论断.md",
+    "Post/命理/紫微斗数/宫位",
+    "Post/命理/紫微斗数/星情",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
