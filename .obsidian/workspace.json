@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/Go/实战一：博客管理系统.md",
-                "mode": "preview",
+                "file": "Post/Go/借 Java 之石，攻 Go 之玉 - 基础篇.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/Go/实战一：博客管理系统.md",
+                "file": "Post/Go/借 Java 之石，攻 Go 之玉 - 基础篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/Go/实战一：博客管理系统.md",
+                "file": "Post/Go/借 Java 之石，攻 Go 之玉 - 基础篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/Go/实战一：博客管理系统.md"
+                "file": "Post/Go/借 Java 之石，攻 Go 之玉 - 基础篇.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +160,9 @@
   },
   "active": "8eacd7da498b02ee",
   "lastOpenFiles": [
-    "Post/Go/概览.md",
     "Post/Go/实战一：博客管理系统.md",
-    "Post/Go/借 Java 之石，攻 Go 之玉 - 语法特性.md",
+    "Post/Go/概览.md",
+    "Post/Go/借 Java 之石，攻 Go 之玉 - 基础篇.md",
     "Post/网络安全/HTTPS 的工作原理.md",
     "Post/Go",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
