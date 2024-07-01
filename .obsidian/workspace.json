@@ -11,8 +11,13 @@
             "id": "8eacd7da498b02ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post/Go/实战一：博客管理系统.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post/Go/实战一：博客管理系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post/Go/实战一：博客管理系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/RBAC3.md"
+                "file": "Post/Go/实战一：博客管理系统.md"
               }
             }
           },
@@ -132,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa3f2b4fe5b8d91f",
+  "active": "8eacd7da498b02ee",
   "lastOpenFiles": [
+    "Post/Go/概览.md",
+    "Post/Go/实战一：博客管理系统.md",
+    "Post/Go/借 Java 之石，攻 Go 之玉 - 语法特性.md",
+    "Post/网络安全/HTTPS 的工作原理.md",
+    "Post/Go",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "README.md",
     "Post/K3s/检测 k8s service 域名是否生效.md",
@@ -175,10 +186,6 @@
     "Post/命理/紫微斗数/宫位/父母宫.md",
     "Post/命理/紫微斗数/宫位/福德宫.md",
     "Post/命理/紫微斗数/宫位/田宅宫.md",
-    "Post/命理/紫微斗数/宫位/官禄宫（事业宫）.md",
-    "Post/命理/紫微斗数/宫位/奴仆宫（交友宫）.md",
-    "Post/命理/紫微斗数/宫位/迁移宫.md",
-    "Post/命理/紫微斗数/宫位/疾厄宫.md",
     "Post/命理/紫微斗数/宫位",
     "Post/命理/紫微斗数/星情",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -190,7 +197,6 @@
     "Aliases",
     "Demo",
     "Wikilink",
-    "Demos",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
   ]
 }
