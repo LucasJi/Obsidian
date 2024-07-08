@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "687f2d7afba3f1e9",
+        "id": "15ce4f3376c42c8a",
         "type": "tabs",
         "children": [
           {
-            "id": "efb19e069191a68c",
+            "id": "0d9ca27a6defb470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
+                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Post/Go/Java2Go/一、语言的主要特征.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,13 +159,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efb19e069191a68c",
+  "active": "0d9ca27a6defb470",
   "lastOpenFiles": [
-    "Post/Go/Java2Go/变量.md",
-    "TODO.md",
-    "Post/Go/Java2Go/概览.md",
+    "Post/系统设计/交叉编译.md",
+    "Post/Go/Java2Go/一、语言的主要特征.md",
+    "Post/Go/Java2Go/二、基础数据类型.md",
+    "Post/Go/Java2Go/二十：博客管理系统.md",
+    "Post/Go/Java2Go/三、变量和枚举.md",
+    "Post/Go/Java2Go/三十、概览.md",
     "Post/Go/Java2Go/基础篇.md",
-    "Post/Go/Java2Go/实战一：博客管理系统.md",
+    "TODO.md",
     "Post/Go/Java vs Go/视频思路.md",
     "Post/Go/Java2Go",
     "Post/网络安全/HTTPS 的工作原理.md",
@@ -185,9 +189,6 @@
     "Post/K3s/强制删除 k8s namespace.md",
     "Post/K3s/重启 k3s.md",
     "Post/K3s/k3s 跨云服务商集群搭建.md",
-    "Post/K3s/Redis 主从架构安装.md",
-    "Post/命理/紫微斗数/宫位/命宫.md",
-    "Post/玄学/紫微斗数/术语/一六共宗.md",
     "Post/命理/紫微斗数/宫位",
     "Post/命理/紫微斗数/星情",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
