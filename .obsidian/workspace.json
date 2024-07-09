@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
-                "mode": "preview",
+                "file": "Post/Go/Java2Go/三、变量和作用域.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "b3c1d917cbbeb28e",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
+                "file": "Post/Go/Java2Go/三、变量和作用域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/Go/Java2Go/一、语言的主要特征.md",
+                "file": "Post/Go/Java2Go/三、变量和作用域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/Go/Java2Go/一、语言的主要特征.md"
+                "file": "Post/Go/Java2Go/三、变量和作用域.md"
               }
             }
           },
@@ -140,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d9ca27a6defb470",
+  "active": "75d2db4434b1d078",
   "lastOpenFiles": [
-    "Post/系统设计/交叉编译.md",
     "Post/Go/Java2Go/一、语言的主要特征.md",
+    "Post/Go/Java2Go/三、变量和作用域.md",
     "Post/Go/Java2Go/二、基础数据类型.md",
+    "Post/系统设计/交叉编译.md",
     "Post/Go/Java2Go/二十：博客管理系统.md",
-    "Post/Go/Java2Go/三、变量和枚举.md",
     "Post/Go/Java2Go/三十、概览.md",
     "Post/Go/Java2Go/基础篇.md",
     "TODO.md",
