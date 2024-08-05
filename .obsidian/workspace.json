@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aefb0ceb3141c308",
+        "id": "a9f1094e65ac18bd",
         "type": "tabs",
         "children": [
           {
-            "id": "f780ea943d1fb372",
+            "id": "c1b21f5229ec5532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post/业务/工作中业务场景与系统设计.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post/业务/工作中业务场景与系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post/业务/工作中业务场景与系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post/业务/工作中业务场景与系统设计.md"
+              }
             }
           },
           {
@@ -130,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +157,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3f2b4fe5b8d91f",
+  "active": "c1b21f5229ec5532",
   "lastOpenFiles": [
+    "Post/业务/工作中业务场景与系统设计.md",
+    "Post/业务/音频预标注业务健壮性支持实现思路.md",
+    "Post/业务/Docker 容器中的 Java 程序堆栈分析.md",
+    "Post/系统设计/RBAC.md",
+    "Post/系统设计/交叉编译.md",
     "README.md",
     "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
-    "Post/业务/音频预标注业务健壮性支持实现思路.md",
     "Post/产品/Jade/v0.0.1.md",
     "Post/产品/Jade",
     "TODO.md",
@@ -159,7 +173,6 @@
     "Post/Go/Java2Go/三、变量和作用域.md",
     "Post/Go/Java2Go/一、语言的主要特征.md",
     "Post/Go/Java2Go/二、基础数据类型.md",
-    "Post/系统设计/交叉编译.md",
     "Post/Go/Java2Go/二十：博客管理系统.md",
     "Post/Go/Java2Go/三十、概览.md",
     "Post/Go/Java2Go/基础篇.md",
@@ -170,13 +183,11 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Post/K3s/检测 k8s service 域名是否生效.md",
     "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/业务/Docker容器中的Java程序堆栈分析.md",
     "Post/命理/紫微斗数/星情/紫微星.md",
     "Post/命理/紫微斗数/星情/天机.md",
     "Post/网络安全/CSRF - 跨站点请求伪造.md",
     "Post/命理/紫微斗数/《十二宫六七二象》基础论断.md",
     "Post/命理/紫微斗数/紫微探真.md",
-    "Post/系统设计/RBAC.md",
     "Post/K3s/强制删除 k8s namespace.md",
     "Post/命理/紫微斗数/宫位",
     "Post/命理/紫微斗数/星情",
