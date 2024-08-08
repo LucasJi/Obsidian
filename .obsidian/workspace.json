@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post/业务/工作中业务场景与系统设计.md",
+                "file": "产品/Jade.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post/业务/工作中业务场景与系统设计.md",
+                "file": "产品/Jade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post/业务/工作中业务场景与系统设计.md",
+                "file": "产品/Jade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post/业务/工作中业务场景与系统设计.md"
+                "file": "产品/Jade.md"
               }
             }
           },
@@ -159,44 +159,44 @@
   },
   "active": "c1b21f5229ec5532",
   "lastOpenFiles": [
-    "Post/业务/工作中业务场景与系统设计.md",
-    "Post/业务/音频预标注业务健壮性支持实现思路.md",
-    "Post/业务/Docker 容器中的 Java 程序堆栈分析.md",
-    "Post/系统设计/RBAC.md",
-    "Post/系统设计/交叉编译.md",
+    "业务/工作中业务场景与系统设计.md",
+    "产品/Jade.md",
+    "产品/Jade/v0.0.1.md",
+    "业务/音频预标注业务健壮性支持实现思路.md",
+    "业务/Docker 容器中的 Java 程序堆栈分析.md",
+    "系统设计/RBAC.md",
+    "系统设计/交叉编译.md",
     "README.md",
-    "Post/Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
-    "Post/产品/Jade/v0.0.1.md",
-    "Post/产品/Jade",
+    "Database/MongoDB/记一次简单的 MongoDB 管道查询优化.md",
+    "产品/Jade",
     "TODO.md",
-    "Post/产品",
-    "Post/Go/Java2Go/三、变量和作用域.md",
-    "Post/Go/Java2Go/一、语言的主要特征.md",
-    "Post/Go/Java2Go/二、基础数据类型.md",
-    "Post/Go/Java2Go/二十：博客管理系统.md",
-    "Post/Go/Java2Go/三十、概览.md",
+    "产品",
+    "Go/Java2Go/三、变量和作用域.md",
+    "Go/Java2Go/一、语言的主要特征.md",
+    "Go/Java2Go/二、基础数据类型.md",
+    "Go/Java2Go/二十：博客管理系统.md",
+    "Go/Java2Go/三十、概览.md",
     "Post/Go/Java2Go/基础篇.md",
     "Post/Go/Java vs Go/视频思路.md",
-    "Post/Go/Java2Go",
-    "Post/网络安全/HTTPS 的工作原理.md",
-    "Post/Go",
+    "Go/Java2Go",
+    "网络安全/HTTPS 的工作原理.md",
+    "Go",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Post/K3s/检测 k8s service 域名是否生效.md",
-    "Post/Docker/Docker 生成镜像时删除 dangling 镜像.md",
-    "Post/命理/紫微斗数/星情/紫微星.md",
-    "Post/命理/紫微斗数/星情/天机.md",
-    "Post/网络安全/CSRF - 跨站点请求伪造.md",
+    "Docker/Docker 生成镜像时删除 dangling 镜像.md",
+    "命理/紫微斗数/星情/紫微星.md",
+    "命理/紫微斗数/星情/天机.md",
+    "网络安全/CSRF - 跨站点请求伪造.md",
     "Post/命理/紫微斗数/《十二宫六七二象》基础论断.md",
     "Post/命理/紫微斗数/紫微探真.md",
-    "Post/K3s/强制删除 k8s namespace.md",
-    "Post/命理/紫微斗数/宫位",
-    "Post/命理/紫微斗数/星情",
+    "命理/紫微斗数/宫位",
+    "命理/紫微斗数/星情",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Untitled.canvas",
-    "Post/系统设计",
+    "系统设计",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
   ]
 }
